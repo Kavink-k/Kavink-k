@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Kavin K
+# Hi, I'm Kavin K
 
-### Full Stack Developer | React.js · Node.js · FastAPI · Python
+### Full Stack Developer | MERN (MongoDB,Express.js,React.js,Node.js) · FastAPI · Python
 
 [![Email](https://img.shields.io/badge/EMAIL-kavikavin847%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavikavin847@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-kavink--k-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavink-k/)
