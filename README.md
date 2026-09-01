@@ -16,12 +16,12 @@
 
 ## 📑 Quick Navigation
 
-| [🧭 About Me](#-about-me) | [🛠️ Tech Stack](#️-tech-stack) | [💼 Experience](#-experience) | [🌟 Projects](#-featured-projects) | [🎓 Education](#-education) | [🌐 Languages](#-languages) | [🤝 Let's Connect](#-lets-connect) |
+| [ About Me](#-about-me) | [ Tech Stack](#️-tech-stack) | [ Experience](#-experience) | [ Projects](#-featured-projects) | [ Education](#-education) | [ Languages](#-languages) | [ Let's Connect](#-lets-connect) |
 |---|---|---|---|---|---|---|
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I'm an **Information Technology** student and aspiring **Full Stack Developer**, currently building hands-on experience across the modern web stack — from crafting responsive React interfaces to designing and shipping RESTful APIs with Node.js, Express.js, and FastAPI.
 
@@ -35,7 +35,7 @@ I'm an **Information Technology** student and aspiring **Full Stack Developer**,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I'm an **Information Technology** student and aspiring **Full Stack Developer**,
 </div>
 
 <details>
-<summary>📋 <b>Click for a category breakdown</b></summary>
+<summary> <b>Click for a category breakdown</b></summary>
 <br>
 
 | Category | Stack |
@@ -75,7 +75,7 @@ I'm an **Information Technology** student and aspiring **Full Stack Developer**,
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Full Stack Development Trainee · Younder Bots pvt. ltd.** `Mar 2026 – May 2026`
 - Built full-stack applications using **React.js** on the frontend and **FastAPI** on the backend
@@ -95,7 +95,7 @@ I'm an **Information Technology** student and aspiring **Full Stack Developer**,
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -120,14 +120,14 @@ Full-stack operations platform with modules for order, warehouse, inventory, dri
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech in Information Technology** — Sri Shanmugha College of Engineering and Technology, Anna University
 `Expected 2027` · CGPA: **7.6/10**
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 English (Intermediate) · Tamil (Native)
 
