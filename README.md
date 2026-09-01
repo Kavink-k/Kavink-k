@@ -216,7 +216,7 @@ I focus on writing clean, understandable code while continuously improving my pr
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### 🔧 Tools
