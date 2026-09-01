@@ -12,12 +12,6 @@
 
 </div>
 
----
-
-## 📑 Quick Navigation
-
-| [ About Me](#-about-me) | [ Tech Stack](#️-tech-stack) | [ Experience](#-experience) | [ Projects](#-featured-projects) | [ Education](#-education) | [ Languages](#-languages) | [ Let's Connect](#-lets-connect) |
-|---|---|---|---|---|---|---|
 
 ---
 
