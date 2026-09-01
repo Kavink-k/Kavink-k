@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi, I'm Kavin K
 
@@ -137,4 +137,234 @@ English (Intermediate) · Tamil (Native)
 
 ⭐ *Thanks for stopping by — always happy to talk full-stack development, APIs, or new opportunities!*
 
-</div>
+</div> -->
+
+
+<h1 align="center">Hi, I'm Kavin K.</h1>
+
+<h3 align="center">
+Full Stack Developer · React · React Native · TypeScript · Node.js · Python
+</h3>
+
+<p align="center">
+  <a href="https://github.com/kavink-k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://kavink-k.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/kavink-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=45&section=header&text=🚀%20BUILDING%20%7C%20LEARNING%20%7C%20DEBUGGING%20%7C%20IMPROVING%20%20→%20%20React%20%20→%20%20TypeScript%20%20→%20%20Node.js%20%20→%20%20FastAPI&fontSize=15&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Information Technology student** and aspiring **Full Stack Developer** who enjoys building practical applications and understanding how systems work from frontend to backend.
+
+I focus on writing clean, understandable code while continuously improving my problem-solving and software engineering skills.
+
+* 🎓 B.Tech Information Technology
+* 💻 Focused on **Full Stack Development**
+* ⚛️ Building applications with **React & React Native**
+* 🔷 Working with **TypeScript & JavaScript**
+* 🟢 Building backend services using **Node.js & Express.js**
+* 🐍 Building APIs using **Python & FastAPI**
+* 🗄️ Working with **MySQL & MongoDB**
+* 🔌 Building and integrating **REST APIs**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 📚 Continuously learning and building real-world projects
+
+> **My goal:** Become a strong software engineer who understands both the code and the system behind it.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Cumulative Student Record Management System
+
+**React · Express · Node · Sequelize · MySQL**
+
+A centralized student record management platform designed to maintain and manage academic information in one system.
+
+**Key Features**
+
+* 👨‍🎓 Student record management
+* 📚 Academic information management
+* 📝 Record creation and updates
+* 🔍 Student data retrieval
+* 🔐 Role-based access
+* 🔌 REST API integration
+* 🗄️ MySQL database
+* ⚡ Node js backend
+
+</td>
+
+<td width="50%">
+
+### 📦 SmartOps 360
+
+**React · FastAPI · Python · SQLAlchemy · MySQL**
+
+A business management platform designed around the workflow:
+
+**Admin → Warehouse → Driver → Customer**
+
+**Key Features**
+
+* 📊 Management dashboard
+* 📦 Order management
+* 🏭 Warehouse management
+* 🚚 Driver management
+* 📍 Order tracking
+* 📋 Inventory management
+* 🔔 Notification system
+* 🔌 REST API integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What I Work With
+
+```text
+Frontend
+React ─────────────── React Native
+   │                        │
+   └──────── TypeScript ────┘
+              │
+              ▼
+         REST APIs
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+    Node.js        FastAPI
+    Express        Python
+       │             │
+       └──────┬──────┘
+              ▼
+          Databases
+        MySQL / MongoDB
+```
+
+I enjoy working across the complete application flow:
+
+**UI → API → Business Logic → Database → Response**
+
+---
+
+### Problem Solving
+
+Regularly practicing **Data Structures & Algorithms** to improve logical thinking and coding skills.
+
+---
+
+## 💡 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Understand → Improve**
+
+I believe debugging is one of the best ways to understand software development.
+
+Instead of simply fixing an error, I try to understand **why it happened** and how the underlying system works.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavink-k&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavink-k&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavink-k&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Become a strong **Full Stack Engineer**
+* 🔷 Master **TypeScript**
+* 📱 Build production-quality **React Native applications**
+* ⚙️ Strengthen **Node.js & FastAPI**
+* 🗄️ Improve database design and optimization
+* 🧠 Strengthen **DSA & problem solving**
+* 🏗️ Learn system design fundamentals
+* 🌱 Build meaningful and practical projects
+* 🤝 Contribute more actively to GitHub
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/kavink-k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:[your-email@example.com](mailto:your-email@example.com)">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
+
