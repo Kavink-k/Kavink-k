@@ -198,13 +198,17 @@ I focus on writing clean, understandable code while continuously improving my pr
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java," />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+       <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/expo/4630EB" width="48" height="48" />
+
+
 </p>
 
 ### ⚙️ Backend
@@ -226,7 +230,19 @@ I focus on writing clean, understandable code while continuously improving my pr
 </p>
 
 ---
+### 📋 Technologies
 
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python, Java, HTML5, CSS3 |
+| **Frontend** | React.js, React Native, Expo, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express.js, FastAPI |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **API & Documentation** | REST APIs, Axios, Swagger / OpenAPI |
+| **Dev Tools** | Git, GitHub, Postman, Docker, Linux, VS Code |
+| **Development Practices** | CI/CD, API Integration, Authentication, Database Design |
+
+---
 ## 🚀 Featured Projects
 
 <table>
@@ -325,10 +341,7 @@ Instead of simply fixing an error, I try to understand **why it happened** and h
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavink-k&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavink-k&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kavink-k&theme=tokyonight&hide_border=true"/>
@@ -339,7 +352,6 @@ Instead of simply fixing an error, I try to understand **why it happened** and h
 ## 🎯 2026 Goals
 
 * 🚀 Become a strong **Full Stack Engineer**
-* 🔷 Master **TypeScript**
 * 📱 Build production-quality **React Native applications**
 * ⚙️ Strengthen **Node.js & FastAPI**
 * 🗄️ Improve database design and optimization
