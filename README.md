@@ -344,7 +344,7 @@ Instead of simply fixing an error, I try to understand **why it happened** and h
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kavink-k&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=kavink-k&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
